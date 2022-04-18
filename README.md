@@ -1,11 +1,11 @@
 # Daifugo_Ver.2.0
 コーディングの勉強をかねて作成したトランプゲーム「大富豪」のコンソールアプリ。
 
-プレイヤー、CPUの行動選択を決める
-・PlayerMove.java
-・AIClass.java
-・HandEvaluator.java
-などが未実装のため、メインの DaifugoSimulation.java は動作しない。
+- プレイヤー、CPUの行動選択を決める
+ - PlayerMove.java
+ - AIClass.java
+ - HandEvaluator.java
+ などが未実装のため、メインの DaifugoSimulation.java は動作しない。
 
 ゲーム開始後の基本の流れは Game.java に記述されている。
 
